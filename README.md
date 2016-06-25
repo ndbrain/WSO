@@ -1,3 +1,8 @@
+# Скриншот
+![](http://f1.s.qip.ru/8eyNv7Eb.jpg)
+
+#Пароль: root
+
 PHP WSO SHELL / File manager
 Новый Web Shell WSO на php 2016 года
 
@@ -21,10 +26,6 @@ This PHP Shell is a useful tool for system or web administrator to do remote man
 
 Если у вас не работает кириллица, измените кодировку файла UTF-8 без BOM на UTF-8
 
-Пароль: root
 
 # WSO SHELL, wso shell, WSO.php, wso.php, webshell
 
-
-## Скриншот
-![](http://f1.s.qip.ru/8eyNv7Eb.jpg)
