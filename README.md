@@ -1,7 +1,9 @@
 # Скриншот
 ![](http://f1.s.qip.ru/8eyNv7Eb.jpg)
 
-#Пароль: root
+
+# Пароль: root
+
 
 PHP WSO SHELL / File manager
 Новый Web Shell WSO на php 2016 года
@@ -27,5 +29,5 @@ This PHP Shell is a useful tool for system or web administrator to do remote man
 Если у вас не работает кириллица, измените кодировку файла UTF-8 без BOM на UTF-8
 
 
-# WSO SHELL, wso shell, WSO.php, wso.php, webshell
 
+# WSO SHELL , wso shell , WSO.php , wso.php , webshell , wso-shell веб-шелл , шелл , WSO2.5 , WSO2.5.1 , WSO2.php , Shell download, C99 , r57 , bypass shell , P.A.S. (php web-shell) , PPS 4.0 , Скачать WSO Web Shell , Скачать wso.php , Скачать Web Shell
