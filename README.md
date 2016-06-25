@@ -4,6 +4,7 @@
 
 # Пароль: root
 
+# Скачать https://github.com/wso-shell/WSO/archive/master.zip
 
 PHP WSO SHELL / File manager
 Новый Web Shell WSO на php 2016 года
