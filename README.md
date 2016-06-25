@@ -1,5 +1,5 @@
 # Скриншот
-![](http://f1.s.qip.ru/8eyNv7Eb.jpg)
+![](http://f3.s.qip.ru/8eyNv7Ec.jpg)
 
 
 # Пароль: root
