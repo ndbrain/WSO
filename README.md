@@ -24,3 +24,7 @@ This PHP Shell is a useful tool for system or web administrator to do remote man
 Пароль: root
 
 # WSO SHELL, wso shell, WSO.php, wso.php, webshell
+
+
+## Скриншот
+![](http://f1.s.qip.ru/8eyNv7Eb.jpg)
